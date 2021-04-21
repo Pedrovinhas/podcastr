@@ -37,6 +37,12 @@ body {
     }
 }
 
+@media (max-width: 1366px) {
+    html {
+      font-size: 80%;
+    }
+  }
+
 body, input, textarea, button {
     font: 500 1rem Inter, sans-serif;
     color: var(--gray-500);
