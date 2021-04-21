@@ -1,34 +1,55 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+    <img width=40% src="/public/logo.svg">
+</div>
 
-## Getting Started
+<div align="center">
+    <h1> Mantenha-se informado no mundo Dev </h1>
+    <a href="https://rocketseat.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/rocketseat-NextLevelWeek5-04d361?logo=&style=for-the-badge" target="_blank" alt="Next-Level-Week-5">
+    </a>
+    <a href="https://github.com/Pedrovinhas" target="_blank"><img src="https://img.shields.io/badge/author-pedrovinhas-04d361?logo=&style=for-the-badge" alt="Github"> </a>
+    <img src="https://img.shields.io/github/languages/count/pedrovinhas/podcastr?color=04d361&style=for-the-badge" alt="Linguagens"> 
+    <img src="https://img.shields.io/github/languages/top/pedrovinhas/podcastr?color=04d361&style=for-the-badge" alt="Linguagens"> 
+    <img src="https://img.shields.io/david/dev/pedrovinhas/podcastr?color=04d361&style=for-the-badge" alt="Dependencias"> 
+    <img src="https://img.shields.io/badge/license-MIT-04d361?logo=&style=for-the-badge" alt="License">
+</div>
 
-First, run the development server:
+<div align="center">
+<img  src="public/notebook-mockup.png" alt="Exemplo da aplicação">
+</div>
+
+## 💻 Projeto
+O Podcastr é uma aplicação desenvolvida durante a Next Level Week 5 de React da RocketSeat. Nele podemos escutar nossos podcasts preferidos e acompanhar a postagem de novos. O projeto foi construído ao longo de 5 dias com tecnologias e conceitos mais recentes do desenvolvimento web, usando NextJS e React e fazendo o fetch de uma API fake para trazer novos dados diariamente.
+
+## 📜 Guia Trilha React
+Dia 1 - React e Next.js 
+Dia 2 - Consumindo a API
+Dia 3 - Paginação 
+Dia 4 - 
+Dia 5 - 
+ 
+## ⛏ Tecnologias
+- [X] TypeScript
+- [X] ReactJS
+- [X] [Next.js](https://nextjs.org/docs)
+### Dependências
+- [X] Yarn
+- [X] Axios
+- [X] JSON Server
 
 ```bash
 npm run dev
 # or
 yarn dev
+# Open http://localhost:3000 with your browser to see the result.
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📝 License
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for more details.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+---
+<blockquote>
+    Feito por Pedro Henrique Vinhas 🪐
+</blockquote>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
