@@ -25,8 +25,10 @@ O Podcastr é uma aplicação desenvolvida durante a Next Level Week 5 de React 
 **Dia 1** - React e Next.js  
 **Dia 2** - Consumindo a API  
 **Dia 3** - Paginação 
+**Dia 4** - Contexto e áudio
+**Dia 5** - Controle do Player
 
- 
+
 ## ⛏ Tecnologias
 - [TypeScript](https://www.typescriptlang.org/)
 - [ReactJS](https://reactjs.org/)
@@ -36,11 +38,14 @@ O Podcastr é uma aplicação desenvolvida durante a Next Level Week 5 de React 
 - [X] Yarn ou NPM
 - [X] Axios
 - [X] JSON Server
+- [X] React Slider
 
 ## 😀 Commits
-- 🎉 **Begin a project.**
-- 🎨 **Improve structure / format of the code.**
+- 🎉 **Begin a project**
+- 🎨 **Improve structure / format of the code**
 - ⚡ **Improve performance**
+- ✨ **Introduce new features**
+- 🚀 **Deploy Stuff**
 
 ## 🚀 Instalação
 
