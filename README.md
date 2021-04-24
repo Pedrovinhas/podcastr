@@ -23,9 +23,9 @@ O Podcastr é uma aplicação desenvolvida durante a Next Level Week 5 de React 
 
 ## 📜 Guia Trilha React
 **Dia 1** - React e Next.js  
-**Dia 2** - Consumindo a API  
-**Dia 3** - Paginação 
-**Dia 4** - Contexto e áudio
+**Dia 2** - Consumindo a API     
+**Dia 3** - Paginação  
+**Dia 4** - Contexto e áudio  
 **Dia 5** - Controle do Player
 
 
