@@ -39,6 +39,13 @@ O Podcastr é uma aplicação desenvolvida durante a Next Level Week 5 de React 
 - [X] Axios
 - [X] JSON Server
 - [X] React Slider
+- [X] Date-FNS
+
+## ✔ Implementações
+- [ ] Responsividade
+- [X] ReadME 
+- [ ] Dark-theme
+- [ ] PWA
 
 ## 😀 Commits
 - 🎉 **Begin a project**
